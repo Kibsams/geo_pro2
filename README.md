@@ -1,2 +1,2 @@
-# geo_pro2
-Geolocation project - Second go!
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
